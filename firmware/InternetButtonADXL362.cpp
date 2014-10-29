@@ -19,7 +19,7 @@
  */ 
 
 #include "application.h"
-#include "ADXL362.h"
+#include "InternetButtonADXL362.h"
 
 //#define ADXL362_DEBUG
 

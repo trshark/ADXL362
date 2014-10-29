@@ -24,7 +24,7 @@ SCLK, MISO, MOSI, and DP 10 of Arduino
  
 */ 
 
-#include "ADXL362.h"
+#include "InternetButtonADXL362.h"
 
 ADXL362 xl;
 
